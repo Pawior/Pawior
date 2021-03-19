@@ -1,6 +1,3 @@
-<!--
-**Pawior/Pawior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
 <h3 align="center">I am 17yo aspiring frontend developer from Poland</h3>
 
