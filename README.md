@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
-<h3 align="center">I am 18yo aspiring frontend developer from Poland</h3>
+<h3 align="center">I am 19yo aspiring frontend developer from Poland</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
