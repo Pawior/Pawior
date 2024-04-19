@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
-<h3 align="center">I am 20yo aspiring full stack developer from Poland</h3>
+<h3 align="center">I am 20yo aspiring IT Enthusiast from Poland</h3>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 
